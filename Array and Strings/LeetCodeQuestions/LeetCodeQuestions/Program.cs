@@ -8,7 +8,8 @@ namespace LeetCodeQuestions
         static void Main(string[] args)
         {
             //RotateImageNintyDegree.Process();
-            ValidateSudoku.Process();
+            //ValidateSudoku.Process();
+            TwoSum.Process();
         }
     }
 }
